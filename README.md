@@ -2,25 +2,19 @@
 
 # [DataCamp - Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r/)
 
-## Course Description
+## Tutorial Description
 
-In this introduction to R, you will master the basics of this beautiful open source language, including factors, lists and data frames. With the knowledge gained in this course, you will be ready to undertake your first very own data analysis. With over 2 million users worldwide R is rapidly becoming the leading programming language in statistics and data science. Every year, the number of R users grows by 40% and an increasing number of organizations are using it in their day-to-day activities. Leverage the power of R by completing this free R online course today!
+Learn more about the famous pipe operator %>% and other pipes in R, why and how you should use them and what alternatives you can consider!
 
-#### Chapters
-
-1) Intro to basics  
-2) Vectors  
-3) Matrices  
-4) Factors  
-5) Data frames  
-6) Lists  
-
-*The course is taught by [Jonathan Cornelissen](https://www.datacamp.com/instructors/jonathanauthor).*
+*This tutorial is written by [Karlijn Willems](https://www.datacamp.com/profile/karlijn).*
 
 ### Prerequisites
 
 [R](https://cran.r-project.org/bin/) - R is an open source programming language and software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing.  
 [RStudio](https://www.rstudio.com/products/rstudio/download/) - RStudio is a set of integrated tools designed to help you be more productive with R. It includes a console, syntax-highlighting editor that supports direct code execution, and a variety of robust tools for plotting, viewing history, debugging and managing your workspace.  
+[magrittr](https://cran.r-project.org/web/packages/magrittr/index.html) - Provides a mechanism for chaining commands with a new forward-pipe operator, %>%. This operator will forward a value, or the result of an expression, into the next function call/expression. There is flexible support for the type of right-hand side expressions.  
+[dplyr package](https://cran.r-project.org/web/packages/dplyr/index.html) - A fast, consistent tool for working with data frame like objects, both in memory and out of memory.  
+[babynames package](https://cran.r-project.org/web/packages/babynames/index.html) - US baby names provided by the SSA. This package contains all names used for at least 5 children of either sex.  
 
 ### Built with
 
